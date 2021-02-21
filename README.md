@@ -10,3 +10,6 @@ without using a php based application to handle the insert of data.
       - Board Manger can be found here: http://arduino.esp8266.com/stable/package_esp8266com_index.json
       - Github Project: https://github.com/esp8266/Arduino
   - DHT11 or DHT22 Temperature Sensor Module.
+
+## Software:
+  - Arduino IDE (https://www.arduino.cc/en/software)
