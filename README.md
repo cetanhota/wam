@@ -14,6 +14,19 @@ without using a php based application to handle the insert of data.
 ## Software:
   - Arduino IDE (https://www.arduino.cc/en/software)
 
-## Wiring:
+## Wiring Diagram:
 
 ![Wiring Diagram](https://github.com/cetanhota/wam/blob/main/images/wam.png)
+
+# MySQL DDL:
+
+CREATE DATABASE `weather` /*!40100 DEFAULT CHARACTER SET latin1 */;
+
+CREATE TABLE dht (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  tmp int(11) NOT NULL,
+  hum int(11) NOT NULL,
+  dew int(11) NOT NULL,
+  ts timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (id)
+) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=latin1;
