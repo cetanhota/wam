@@ -1,6 +1,6 @@
 # Weather Arduino and MySQL (WAM)
 
-Welcome to WAM. This project was put together to insert data into a MySQL Database,
+Welcome to WAM. This project was put together to insert data directly into a MySQL Database,
 without using a php based application to handle the insert of data.
 
 ## Parts List:
@@ -13,6 +13,12 @@ without using a php based application to handle the insert of data.
 
 ## Software:
   - Arduino IDE (https://www.arduino.cc/en/software)
+
+## Arduino Libs:
+
+Adafruit Sensors: (https://github.com/adafruit/Adafruit_Sensor.git)
+Arduino Ethernet Library: (https://www.arduino.cc/en/Reference/Ethernet)
+
 
 ## Wiring Diagram:
 
