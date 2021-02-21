@@ -13,3 +13,7 @@ without using a php based application to handle the insert of data.
 
 ## Software:
   - Arduino IDE (https://www.arduino.cc/en/software)
+
+## Wiring:
+
+![](image.png)
