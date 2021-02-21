@@ -16,4 +16,4 @@ without using a php based application to handle the insert of data.
 
 ## Wiring:
 
-![](image.png)
+![Wiring Diagram](https://github.com/cetanhota/wam/blob/main/images/wam.png)
