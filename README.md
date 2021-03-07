@@ -32,6 +32,7 @@ Ethernet Shield:
  <hr>
 
  Wemos D1 R1
+ 
 ![Wemos D1 R1](https://github.com/cetanhota/wam/blob/main/images/wemos-d1-r1-dht.png)
 
 # MySQL DDL:
