@@ -18,8 +18,9 @@ WAM is a great way to help introduce you to several different technologies.
 
  <h1>Coming Soon:</h1>
 
- Wifi with no database connections.
- Ethernet with no database connections.
+ - Wifi with no database connections.
+
+ - Ethernet with no database connections.
 
 ## Parts List:
   - Arduino Uno or Arduino Leonardo
