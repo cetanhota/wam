@@ -3,6 +3,19 @@
 Welcome to WAM. This project was put together to insert data directly into a MySQL Database,
 without using a php based application to handle the insert of data.
 
+WAM is a great way to help introduce you to several different technologies.
+
+ 1. Arduino Sketches.
+ 2. Arduino Circuit setup.
+ 3. MySQL
+
+ These technologies will help you become more comfortable with them. Note: I will
+ not detail how to install MySQL. There are many sites for this a few are below:
+
+ - [Install MySQL on Raspberry Pi from Source Code.](https://www.percona.com/community-blog/2019/08/01/how-to-build-a-percona-server-stack-on-a-raspberry-pi-3/)
+ - [Setup a Raspberry Pi MYSQL Database](https://pimylifeup.com/raspberry-pi-mysql/)
+ - [How To Install MySQL on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
+
 ## Parts List:
   - Arduino Uno or Arduino Leonardo
   - Ethernet Shield W5100 for Arduino UNO
@@ -32,7 +45,7 @@ Ethernet Shield:
  <hr>
 
  Wemos D1 R1
- 
+
 ![Wemos D1 R1](https://github.com/cetanhota/wam/blob/main/images/wemos-d1-r1-dht.png)
 
 # MySQL DDL:
