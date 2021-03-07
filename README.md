@@ -9,22 +9,30 @@ without using a php based application to handle the insert of data.
   - Wemos D1 Mini Arduino Uno WiFi Shield for ESP8266 ESP-12E
       - Board Manger can be found here: http://arduino.esp8266.com/stable/package_esp8266com_index.json
       - Github Project: https://github.com/esp8266/Arduino
-  - DHT11 or DHT22 Temperature Sensor Module.
+
 
 ## Software:
   - Arduino IDE (https://www.arduino.cc/en/software)
+  - DHT11 Sensor Library: https://github.com/adidax/dht11
 
 ## Arduino Libs:
 
 Adafruit Sensors: (https://github.com/adafruit/Adafruit_Sensor.git)
 Arduino Ethernet Library: (https://www.arduino.cc/en/Reference/Ethernet)
 
+I prefer this library:
+  - DHT11 Sensor Library: https://github.com/adidax/dht11
 
 ## Wiring Diagrams:
 
+
+Ethernet Shield:
+
 ![Wiring Diagram Ethernet Shield](https://github.com/cetanhota/wam/blob/main/images/ethernet-shield.png)
-<hr>
-![Wiring Diagram Ethernet Shield](https://github.com/cetanhota/wam/blob/main/images/wemos-d1-r1-dht.png)
+ <hr>
+
+ Wemos D1 R1
+![Wemos D1 R1](https://github.com/cetanhota/wam/blob/main/images/wemos-d1-r1-dht.png)
 
 # MySQL DDL:
 
