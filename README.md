@@ -23,6 +23,7 @@ Arduino Ethernet Library: (https://www.arduino.cc/en/Reference/Ethernet)
 ## Wiring Diagrams:
 
 ![Wiring Diagram Ethernet Shield](https://github.com/cetanhota/wam/blob/main/images/ethernet-shield.png)
+<hr>
 ![Wiring Diagram Ethernet Shield](https://github.com/cetanhota/wam/blob/main/images/wemos-d1-r1-dht.png)
 
 # MySQL DDL:
