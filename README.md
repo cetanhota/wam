@@ -20,9 +20,10 @@ Adafruit Sensors: (https://github.com/adafruit/Adafruit_Sensor.git)
 Arduino Ethernet Library: (https://www.arduino.cc/en/Reference/Ethernet)
 
 
-## Wiring Diagram:
+## Wiring Diagrams:
 
-![Wiring Diagram](https://github.com/cetanhota/wam/blob/main/images/wam.png)
+![Wiring Diagram Ethernet Shield](https://github.com/cetanhota/wam/blob/main/images/ethernet-shield.png)
+![Wiring Diagram Ethernet Shield](https://github.com/cetanhota/wam/blob/main/images/wemos-d1-r1-dht.png)
 
 # MySQL DDL:
 
