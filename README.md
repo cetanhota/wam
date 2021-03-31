@@ -29,6 +29,8 @@ WAM is a great way to help introduce you to several different technologies.
   - Wemos D1 Mini Arduino Uno WiFi Shield for ESP8266 ESP-12E
       - Board Manger can be found here: http://arduino.esp8266.com/stable/package_esp8266com_index.json
       - Github Project: https://github.com/esp8266/Arduino
+  - Breadboard.
+  - Jumper wires.
 
 
 ## Software:
