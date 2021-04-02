@@ -61,11 +61,12 @@ Ethernet Shield:
 
 CREATE DATABASE `weather` /*!40100 DEFAULT CHARACTER SET latin1 */;
 
-CREATE TABLE dht (
-  id int(11) NOT NULL AUTO_INCREMENT,
-  tmp int(11) NOT NULL,
-  hum int(11) NOT NULL,
-  dew int(11) NOT NULL,
-  ts timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  PRIMARY KEY (id)
-) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=latin1;
+CREATE TABLE `dht` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `tmp` int(11) NOT NULL,
+  `hum` int(11) NOT NULL,
+  `dew` int(11) NOT NULL DEFAULT '0',
+  `hif` int(45) NOT NULL DEFAULT '0',
+  `ts` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=64 DEFAULT CHARSET=latin1;
