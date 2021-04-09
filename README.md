@@ -41,6 +41,7 @@ WAM is a great way to help introduce you to several different technologies.
 
 Adafruit Sensors: (https://github.com/adafruit/Adafruit_Sensor.git)
 Arduino Ethernet Library: (https://www.arduino.cc/en/Reference/Ethernet)
+MySQL Connector: (https://github.com/ChuckBell/MySQL_Connector_Arduino)
 
 ## Wiring Diagrams:
 
