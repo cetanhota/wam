@@ -42,9 +42,6 @@ WAM is a great way to help introduce you to several different technologies.
 Adafruit Sensors: (https://github.com/adafruit/Adafruit_Sensor.git)
 Arduino Ethernet Library: (https://www.arduino.cc/en/Reference/Ethernet)
 
-I prefer this library:
-  - DHT11 Sensor Library: https://github.com/adidax/dht11
-
 ## Wiring Diagrams:
 
 
