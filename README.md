@@ -27,8 +27,8 @@ WAM is a great way to help introduce you to several different technologies.
   - Ethernet Shield W5100 for Arduino UNO
   - [DHT11 Sensor](https://www.amazon.com/KeeYees-Temperature-Humidity-Single-Bus-Raspberry/dp/B07V5MTQJG/ref=sr_1_4?crid=WGA2J1ZTPJB1&dchild=1&keywords=dht11+sensor&qid=1617229571&s=industrial&sprefix=DHT11%2Cindustrial%2C166&sr=1-4)
   - Wemos D1 Mini Arduino Uno WiFi Shield for ESP8266 ESP-12E
-      - [Board Manger can be found here:] http://arduino.esp8266.com/stable/package_esp8266com_index.json
-      - [Github Project:] https://github.com/esp8266/Arduino
+      - [Board Manger can be found here:](http://arduino.esp8266.com/stable/package_esp8266com_index.json)
+      - [Github Project:](https://github.com/esp8266/Arduino)
   - [Breadboard](https://www.amazon.com/Pcs-MCIGICM-Points-Solderless-Breadboard/dp/B07PCJP9DY/ref=sr_1_2?crid=15JNDDF7ZVFJT&dchild=1&keywords=breadboard&qid=1617229330&s=industrial&sprefix=breadbboards%2Caps%2C163&sr=1-2)
   - [Jumper wires](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_4?crid=2EXHES7CLPLS5&dchild=1&keywords=jumper+wires&qid=1617229476&s=industrial&sprefix=ju%2Cindustrial%2C176&sr=1-4)
 
