@@ -34,8 +34,8 @@ WAM is a great way to help introduce you to several different technologies.
 
 
 ## Software:
-  - Arduino IDE(https://www.arduino.cc/en/software)
-  - DHT11 Sensor Library:https://github.com/adidax/dht11
+  - [Arduino IDE](https://www.arduino.cc/en/software)
+  - [DHT11 Sensor Library:](https://github.com/adidax/dht11)
 
 ## Arduino Libs:
 
