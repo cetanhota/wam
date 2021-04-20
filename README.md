@@ -16,11 +16,6 @@ WAM is a great way to help introduce you to several different technologies.
  - [Setup a Raspberry Pi MYSQL Database](https://pimylifeup.com/raspberry-pi-mysql/)
  - [How To Install MySQL on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
 
- <h1>Coming Soon:</h1>
-
- - Wifi with no database connections.
-
- - Ethernet with no database connections.
 
 ## Parts List:
   - Arduino Uno or Arduino Leonardo
