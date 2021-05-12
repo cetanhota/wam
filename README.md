@@ -1,7 +1,8 @@
 # Weather Arduino and MySQL (WAM)
 
 Welcome to WAM. This project was put together to insert data directly into a MySQL Database,
-without using a php based application to handle the insert of data.
+without using a php based application to handle the insert of data. When your all done you could put this
+in one room of your house plug in the 9VDC adapter and monitor that room.
 
 WAM is a great way to help introduce you to several different technologies.
 
@@ -26,6 +27,7 @@ WAM is a great way to help introduce you to several different technologies.
       - [Github Project:](https://github.com/esp8266/Arduino)
   - [Breadboard](https://www.amazon.com/Pcs-MCIGICM-Points-Solderless-Breadboard/dp/B07PCJP9DY/ref=sr_1_2?crid=15JNDDF7ZVFJT&dchild=1&keywords=breadboard&qid=1617229330&s=industrial&sprefix=breadbboards%2Caps%2C163&sr=1-2)
   - [Jumper wires](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_4?crid=2EXHES7CLPLS5&dchild=1&keywords=jumper+wires&qid=1617229476&s=industrial&sprefix=ju%2Cindustrial%2C176&sr=1-4)
+  - [Arduino 9VDC Power Adapter](https://www.amazon.com/Arduino-Power-Supply-Adapter-110V/dp/B018OLREG4/ref=sr_1_3?crid=2REVN1CMIEII4&dchild=1&keywords=arduino+9+volt+power+supply&qid=1620777070&sprefix=arduino+9+volt%2Caps%2C175&sr=8-3)
 
 
 ## Software:
@@ -40,7 +42,7 @@ WAM is a great way to help introduce you to several different technologies.
 ## Wiring Diagrams:
 
 
-Ethernet Shield:
+Arduino UNO with Ethernet Shield:
 
 ![Wiring Diagram Ethernet Shield](https://github.com/cetanhota/wam/blob/main/images/ethernet-shield.png)
  <hr>
