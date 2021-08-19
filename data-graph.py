@@ -9,13 +9,13 @@ today=date.today()
 d1 = today.strftime("%d/%m/%Y")
 
 mydb = mysql.connector.connect(
-  host="",
-  user="",
-  password="",
-  database=""
+  host="35.223.68.152",
+  user="weatherapp",
+  password="Thunderstorm!!",
+  database="weather"
 )
 mycursor = mydb.cursor()
-sql = "select tmp,hum,dew,hif,ts from percona order by ts desc limit 96"
+sql = "select tmp,hum,dew,hif,ts from cloud order by ts desc limit 96"
 mycursor.execute(sql)
 myresults = mycursor.fetchall()
 
